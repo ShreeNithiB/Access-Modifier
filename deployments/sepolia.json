@@ -1,7 +1,7 @@
 {
   "network": "sepolia",
   "contractName": "DCF",
-  "latestVersion": "v3",
+  "latestVersion": "v4",
   "versions": {
     "v1": {
       "address": "0x9974526ef60d3e52f3f4c1a881c1b05416e72889",
@@ -17,6 +17,11 @@
       "address": "0xd6091d3c7ac301a3d0ee43615ea7d5b3a845d1f6",
       "owner": "0xc449Bd6cBad3bE042f13004f5ca14D3966531B3f",
       "deployedAt": "2026-10-05T05:42:09.822Z"
+    },
+    "v4": {
+      "address": "0x2992aafbc96df239568fa77357a1ff4ce6f57c0f",
+      "owner": "0xc449Bd6cBad3bE042f13004f5ca14D3966531B3f",
+      "deployedAt": "2026-10-09T00:43:50.093Z"
     }
   }
 }
